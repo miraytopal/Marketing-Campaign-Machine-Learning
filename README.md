@@ -1,8 +1,7 @@
 # Marketing-Campaign-Machine-Learning
 A Predictive Model for Marketing Campaigns
 
-The goal of this project is to create a Predictive Model that can predict whether a customer will respond positively or negatively to a given Marketing Campaign using historical data.
-
+The goal of this project is to accurately predict who will participate in the next marketing campaign using historical data. We started by exploring, cleaning, and preparing the raw data for model training. We then experimented with various machine learning algorithms to find the best fit for our dataset. Finally, we selected the best performing model and fine-tuned it by defining the optimal hyper-parameters.
 
 Table of Contents
 --
